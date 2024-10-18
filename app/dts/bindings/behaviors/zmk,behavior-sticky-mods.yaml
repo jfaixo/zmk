@@ -1,0 +1,9 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+description: Sticky Mods behavior
+
+compatible: "zmk,behavior-sticky-mods"
+
+include: two_param.yaml
+
